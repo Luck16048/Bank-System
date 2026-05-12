@@ -15,7 +15,7 @@ public class PasswordUtil {
         }
     }
 
-    public static boolean verity(String password, String hash) {
+    public static boolean verify(String password, String hash) {
         return hash(password).equals(hash);
     }
 }

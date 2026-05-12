@@ -79,7 +79,7 @@ public class ClientEntity {
         this.role = role;
     }
 
-    public boolean getIsActive() {
+    public boolean getActive() {
         return active;
     }
 
