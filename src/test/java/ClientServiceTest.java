@@ -1,6 +1,5 @@
 import org.example.entity.ClientEntity;
 import org.example.service.ClientService;
-import org.example.util.PasswordUtil;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
